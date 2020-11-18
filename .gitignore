@@ -5,8 +5,8 @@ media
 db.sqlite3
 myenv
 venv
-configs/config.json
 static
+configs/config.json
 
 
 # Byte-compiled / optimized / DLL files
